@@ -92,7 +92,7 @@ ipython_config.py
 *.swo
 
 # Images & plots
-*.png
+# *.png
 *.jpg
 *.jpeg
 *.svg
