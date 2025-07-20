@@ -7,6 +7,9 @@
 ## Deskripsi Proyek
 Proyek ini melakukan analisis regresi linier sederhana dan berganda pada dataset harga rumah di California. Analisis meliputi eksplorasi data, visualisasi, rekayasa fitur, pembuatan model regresi, evaluasi model, serta pembuatan dashboard interaktif dan poster otomatis.
 
+## Akses Online
+Aplikasi Streamlit dapat diakses secara online di sini: [fp-bigdata-5524-5512.streamlit.app](https://fp-bigdata-5524-5512.streamlit.app/)
+
 ## Sumber Data
 Dataset: [California Housing Prices (Kaggle, Cam Nugent)](https://www.kaggle.com/datasets/camnugent/california-housing-prices)
 
