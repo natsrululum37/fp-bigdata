@@ -96,7 +96,7 @@ ipython_config.py
 *.jpg
 *.jpeg
 *.svg
-*.pdf
+# *.pdf
 
 # Streamlit
 .streamlit/

@@ -27,6 +27,25 @@ Dataset: [California Housing Prices (Kaggle, Cam Nugent)](https://www.kaggle.com
 - Poster otomatis (.png)
 - Dataset bersih (.csv)
 
+## Tampilan Dashboard
+Berikut adalah beberapa tampilan dari dashboard interaktif yang dibangun menggunakan Streamlit:
+
+### 1. Halaman Utama Dashboard
+![Tampilan Dashboard](public/dashboard.png)
+*Dashboard utama menampilkan ringkasan analisis, visualisasi, dan navigasi ke fitur-fitur utama.*
+
+### 2. Analisis Korelasi
+![Analisis Korelasi](public/analisis-korelasi.png)
+*Visualisasi heatmap korelasi antar fitur dan harga rumah.*
+
+### 3. Evaluasi Model Regresi
+![Evaluasi Model Regresi](public/evaluasi-model-regresi.png)
+*Perbandingan performa model regresi menggunakan metrik evaluasi.*
+
+### 4. Prediksi Harga Rumah
+![Prediksi Harga Rumah](public/prediksi-harga-rumah.png)
+*Visualisasi hasil prediksi harga rumah vs nilai aktual.*
+
 ## Cara Menjalankan
 1. **Buat virtual environment (opsional, direkomendasikan)**
    - **Linux/Mac:**
